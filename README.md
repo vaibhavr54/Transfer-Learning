@@ -1,4 +1,4 @@
-# Dogs vs Cats Transfer Learning Comparison
+# Transfer Learning Strategies Comparison
 
 A comprehensive comparison of three transfer learning approaches using VGG16 for Dogs vs Cats binary image classification. This project demonstrates the effectiveness of different transfer learning strategies and their impact on model performance.
 
