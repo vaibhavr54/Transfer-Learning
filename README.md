@@ -103,8 +103,8 @@ jupyter>=1.0.0
 
 1. **Clone the repository**
    ```
-   git clone https://github.com/yourusername/dogs-vs-cats-transfer-learning.git
-   cd dogs-vs-cats-transfer-learning
+   git clone https://github.com/vaibhavr54/Transfer-Learning.git
+   cd Transfer-Learning
    ```
 
 2. **Download the dataset**
